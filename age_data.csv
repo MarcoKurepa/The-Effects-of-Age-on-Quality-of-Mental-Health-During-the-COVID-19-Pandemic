@@ -1,0 +1,9 @@
+﻿Age,good mental,Bad mental,Mood disorder,Life satisfaction,Heavy Drinker,No need for mental help,GAD,MDD,PTSD,Age_num,age_2
+18-34 years,51.1,15.7,12.7,93.6,20.1,75.2,24.5,31.3,11.3,1,Ages <50
+35-49 years,56.9,13.1,10.4,92.4,19.3,79.6,17.8,19.4,8.3,2,Ages <50
+50-64 years,61.1,10.3,9.4,90.8,17.7,85.1,11.8,15.2,7.3,3,Ages >=50
+65+ years,68.2,6.8,6.8,90.9,7.9,92.1,5.9,8.5,2.2,4,Ages >=50
+18-34 years,59,13.2,,,,,18.7,23.2,8.3,1,Ages <50
+35-49 years,64.2,10.4,,,,,12.2,15.2,6.7,2,Ages <50
+50-64 years,66.5,9,,,,,12.7,13.5,6.7,3,Ages >=50
+65+ years,71,5.5,,,,,7.5,6.8,2.7,4,Ages >=50
