@@ -169,7 +169,7 @@ plot(Bad.mental ~ Age_num, data = age_data,
      cex.main = 1.6) #size of the title
 axis(1, at = unique(age_data$Age_num), labels = unique(age_data$Age), cex.axis = 1.1) #adding out custom x-axis labels
 abline(bad_mental_lm, col = "red", lwd = 4) #adding the linear regression model to the graph
-text(3.8, 15.5, bquote(R^2 ~ "=" ~ 0.8881579)) #puttin the r^2 value on the graph
+text(3.8, 15.5, bquote(R^2 ~ "=" ~ 0.8881579)) #putting the r^2 value on the graph
 
 plot(GAD ~ Age_num, data = age_data, 
      xaxt = "n", 
